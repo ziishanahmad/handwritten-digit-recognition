@@ -50,7 +50,7 @@ This project is licensed under the MIT License.
 For any questions or feedback, please contact:
 - **Name:** Zeeshan Ahmad
 - **Email:** ziishanahmad@gmail.com
-- **GitHub:** [ziishanahmad]([https://github.com/ziishanahmad])
-- **LinkdeIn:** [ziishanahmad]([https://www.linkedin.com/in/ziishanahmad/])
+- **GitHub:** [ziishanahmad](https://github.com/ziishanahmad)
+- **LinkdeIn:** [ziishanahmad](https://www.linkedin.com/in/ziishanahmad/)
 
 ```
