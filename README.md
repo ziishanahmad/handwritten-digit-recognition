@@ -1,5 +1,4 @@
 
-```markdown
 # Handwritten Digit Recognition
 
 ## Overview
@@ -53,4 +52,3 @@ For any questions or feedback, please contact:
 - **GitHub:** [ziishanahmad](https://github.com/ziishanahmad)
 - **LinkdeIn:** [ziishanahmad](https://www.linkedin.com/in/ziishanahmad/)
 
-```
